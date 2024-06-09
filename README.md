@@ -8,7 +8,10 @@ This portfolio showcases my expertise in web development, particularly in TypeSc
 
 ## Screenshots
 
-[Include screenshots or a live link here if available]
+![Screenshot 2024-06-09 181605](https://github.com/MohdAadil01/portfolio-nextjs/assets/125737087/186449db-5ccb-40ae-9bd7-f2842eea1495)
+![Screenshot 2024-06-09 181639](https://github.com/MohdAadil01/portfolio-nextjs/assets/125737087/eecce5c6-5e44-40a5-be76-ea88b76652a2)
+![Screenshot 2024-06-09 181702](https://github.com/MohdAadil01/portfolio-nextjs/assets/125737087/9ad13390-cde7-43d8-b77a-5bbcb4bb188d)
+
 
 ## Features
 
