@@ -4,12 +4,14 @@ export const navItems = [
   { name: "Projects", link: "#projects" },
   { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
+  { name: "Experience", link: "#experience" },
 ];
 
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title:
+      "My expertise lies in crafting high-performance websites that are both visually appealing and functionally robust.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -19,7 +21,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "Crafting top web solutions with problem-solving and detail.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -50,7 +52,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a NodeJS backend and frontend for Ecommerce.",
+    title:
+      "Actively seeking internship/job opportunities to leverage skills and passion.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -60,7 +63,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title: "Ready to contribute? Hire me to add value to your team.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
